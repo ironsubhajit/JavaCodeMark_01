@@ -7,3 +7,6 @@ Java Practice Assignments Code
 
 #### Method Overloading
     1. Calculate Volume of 3d Shapes.
+
+#### Miscellaneous
+    1. Collage Assignment Work.
